@@ -1,0 +1,5 @@
+{
+  "name": "Multimodal RAG Chatbot",
+  "description": "An intelligent RAG (Retrieval-Augmented Generation) chatbot that answers questions based on a user-uploaded PDF document. It supports multimodal queries, allowing users to include images in their prompts for a richer, more contextual conversation.",
+  "requestFramePermissions": []
+}
